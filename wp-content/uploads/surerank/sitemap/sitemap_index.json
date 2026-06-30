@@ -1,0 +1,30 @@
+[
+    {
+        "link": "http:\/\/localhost\/chicoxana\/archives-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    },
+    {
+        "link": "http:\/\/localhost\/chicoxana\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    },
+    {
+        "link": "http:\/\/localhost\/chicoxana\/post-type-page-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    },
+    {
+        "link": "http:\/\/localhost\/chicoxana\/post-type-post-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    },
+    {
+        "link": "http:\/\/localhost\/chicoxana\/post-type-product-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    },
+    {
+        "link": "http:\/\/localhost\/chicoxana\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    },
+    {
+        "link": "http:\/\/localhost\/chicoxana\/taxonomy-type-product_cat-sitemap-1.xml",
+        "updated": "2026-06-30T14:59:46+02:00"
+    }
+]

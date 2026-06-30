@@ -1,0 +1,58 @@
+
+[18:30:23 UTC] [INFO] ---
+
+[18:30:23 UTC] [SUCCESS] Import process start flag set successfully | Context: {"template_type":"ai"}
+[18:30:23 UTC] [INFO] Processing block #2 - Block type: uagb/advanced-heading
+[18:30:23 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[18:30:23 UTC] [INFO] Processing block #3 - Block type: uagb/advanced-heading
+[18:30:23 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[18:30:23 UTC] [INFO] Completed get_updated_blocks - Processed: 4, Skipped: 0
+[18:30:23 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[18:30:23 UTC] [INFO] Processing block #7 - Block type: 
+[18:30:23 UTC] [INFO] Checking block for image replacement: 
+[18:30:23 UTC] [INFO] Processing block #8 - Block type: core/block
+[18:30:23 UTC] [INFO] Found reusable block with ID: 763
+[18:30:23 UTC] [INFO] Reusable block already processed, skipping ID: 763
+[18:30:23 UTC] [INFO] Completed get_updated_blocks - Processed: 8, Skipped: 0
+[18:30:23 UTC] [INFO] Serialized updated blocks into content
+[18:30:23 UTC] [INFO] Starting replace_content_glitch
+[18:30:23 UTC] [INFO] Completed replace_content_glitch
+[18:30:23 UTC] [INFO] Completed parse_replace_images for post ID: 147
+[18:30:23 UTC] [INFO] Updated page content | Context: {"post_id":147}
+[18:30:23 UTC] [SUCCESS] Page image replacement completed | Context: {"success_count":5}
+[18:30:23 UTC] [INFO] Replacing images in posts
+[18:30:23 UTC] [INFO] Starting post image replacement | Context: {"post_count":3}
+[18:30:23 UTC] [SUCCESS] Successfully set featured image | Context: {"post_id":1212,"attachment_id":112}
+[18:30:23 UTC] [SUCCESS] Successfully set featured image | Context: {"post_id":1211,"attachment_id":116}
+[18:30:23 UTC] [SUCCESS] Successfully set featured image | Context: {"post_id":1210,"attachment_id":108}
+[18:30:23 UTC] [SUCCESS] Post image replacement completed | Context: {"processed_count":3}
+[18:30:23 UTC] [INFO] Replacing images in customizer
+[18:30:23 UTC] [INFO] Starting customizer image replacement
+[18:30:23 UTC] [INFO] Skipping astra option update - image ID is 0
+[18:30:23 UTC] [INFO] Updated customizer option | Context: {"option_name":"footer-bg-obj-responsive"}
+[18:30:23 UTC] [SUCCESS] Successfully updated astra option | Context: {"attachment_id":109}
+[18:30:23 UTC] [INFO] Updated customizer option | Context: {"option_name":"ast-dynamic-archive-post-banner-custom-bg"}
+[18:30:23 UTC] [INFO] Starting social options update | Context: {"options_count":0}
+[18:30:23 UTC] [INFO] No social options to update
+[18:30:23 UTC] [SUCCESS] Customizer image replacement completed
+[18:30:23 UTC] [INFO] Starting cleanup of old images
+[18:30:23 UTC] [INFO] Processing old image URLs | Context: {"old_image_count":4}
+[18:30:23 UTC] [INFO] Old images deleted | Context: {"deleted_count":3}
+[18:30:23 UTC] [INFO] Cleanup options removed
+[18:30:23 UTC] [INFO] Cleanup completed
+[18:30:23 UTC] [SUCCESS] Image replacement completed successfully
+[18:30:23 UTC] [SUCCESS] Image Replacement completed.
+[18:30:43 UTC] [INFO] ---
+
+[18:30:43 UTC] [INFO] Starting import end process
+[18:30:43 UTC] [INFO] Finalizing import process
+[18:30:43 UTC] [INFO] Setting permalink structure to post name
+[18:30:43 UTC] [INFO] Executing import complete actions
+[18:30:43 UTC] [INFO] Cache for Beaver Builder cleared.
+[18:30:43 UTC] [SUCCESS] Import completed successfully!
+[18:30:57 UTC] [SUCCESS] {"required_plugins":{"active":[{"name":"Spectra","slug":"ultimate-addons-for-gutenberg","init":"ultimate-addons-for-gutenberg\/ultimate-addons-for-gutenberg.php"},{"name":"SureForms","slug":"sureforms","init":"sureforms\/sureforms.php"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php"},{"name":"WooCommerce","slug":"woocommerce","init":"woocommerce\/woocommerce.php"},{"name":"LatePoint","slug":"latepoint","init":"latepoint\/latepoint.php"},{"name":"SureTriggers","slug":"suretriggers","init":"suretriggers\/suretriggers.php"}],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[{"name":"Spectra","slug":"ultimate-addons-for-gutenberg","init":"ultimate-addons-for-gutenberg\/ultimate-addons-for-gutenberg.php"},{"name":"SureForms","slug":"sureforms","init":"sureforms\/sureforms.php"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php"},{"name":"WooCommerce","slug":"woocommerce","init":"woocommerce\/woocommerce.php"},{"name":"LatePoint","slug":"latepoint","init":"latepoint\/latepoint.php"},{"name":"SureTriggers","slug":"suretriggers","init":"suretriggers\/suretriggers.php"}],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[18:30:57 UTC] [INFO] Checking if plugin directory clearing is needed
+[18:31:13 UTC] [INFO] ---
+
+[18:31:13 UTC] [INFO] Setting site data: site-logo
+[18:31:17 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\xampp\\htdocs\\chicoxana\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\xampp\\htdocs\\chicoxana\/wp-content\/uploads"}

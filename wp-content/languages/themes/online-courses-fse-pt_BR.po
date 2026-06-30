@@ -1,0 +1,675 @@
+# Translation of Themes - Online Courses FSE in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Online Courses FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-06 15:05:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Online Courses FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Online Courses FSE is a modern, fully customizable WordPress block theme designed for educational institutions, online course platforms, e-learning websites, and training centers. Built with Full Site Editing capabilities and fully compatible with Masteriyo LMS, this theme offers flexibility and ease of use for creating professional education websites without coding knowledge. Perfect for schools, universities, tutors, and online academies, Online Courses FSE provides seamless integration for courses, lessons, quizzes, student profiles, and enrollment management."
+msgstr "O Online Courses FSE é um tema WordPress moderno e totalmente personalizável, desenvolvido para instituições de ensino, plataformas de cursos online, sites de e-learning e centros de treinamento. Com recursos completos de edição e totalmente compatível com o Masteriyo LMS, este tema oferece flexibilidade e facilidade de uso para a criação de sites educacionais profissionais sem a necessidade de conhecimento em programação. Perfeito para escolas, universidades, tutores e academias online, o Online Courses FSE proporciona integração perfeita para cursos, aulas, questionários, perfis de alunos e gerenciamento de matrículas."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Online Courses FSE"
+msgstr "Online Courses FSE"
+
+#: styles/typography/typography-preset-4.json
+msgctxt "Font family name"
+msgid "Abhaya Libre"
+msgstr "Abhaya Libre"
+
+#: styles/typography/typography-preset-4.json
+msgctxt "Style variation name"
+msgid "Abhaya Libre & Open Sans"
+msgstr "Abhaya Libre & Open Sans"
+
+#: styles/typography/typography-preset-3.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr "Work Sans"
+
+#: styles/typography/typography-preset-3.json
+msgctxt "Style variation name"
+msgid "Work Sans & Inter"
+msgstr "Work Sans & Inter"
+
+#: styles/typography/typography-preset-2.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: styles/typography/typography-preset-2.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: styles/typography/typography-preset-2.json
+msgctxt "Style variation name"
+msgid "Montserrat & Roboto"
+msgstr "Montserrat & Roboto"
+
+#: styles/typography/typography-preset-1.json
+#: styles/typography/typography-preset-4.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: styles/typography/typography-preset-1.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: styles/typography/typography-preset-1.json
+msgctxt "Style variation name"
+msgid "Poppins & Open Sans"
+msgstr "Poppins & Open Sans"
+
+#: styles/colors/03-ember.json
+msgctxt "Style variation name"
+msgid "Ember"
+msgstr "Ember"
+
+#: styles/colors/02-lilac.json
+msgctxt "Style variation name"
+msgid "Lilac"
+msgstr "Lilac"
+
+#: styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Background 4"
+msgstr "Fundo 4"
+
+#: styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Background 3"
+msgstr "Fundo 3"
+
+#: styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Background 2"
+msgstr "Fundo 2"
+
+#: styles/colors/01-eclipse.json
+msgctxt "Style variation name"
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Title"
+msgstr "Página nº Título"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Rodapé"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Vertical Header"
+msgstr "Cabeçalho vertical"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header With Large Title"
+msgstr "Cabeçalho com título grande"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Style 2"
+msgstr "Estilo de cabeçalho 2"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: theme.json styles/typography/typography-preset-3.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Fonte do sistema"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Button"
+msgstr "Botão"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Colossus"
+msgstr "Gigantesco"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigante"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr "Regular"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeno"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Petite"
+msgstr "Pequeno"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Minúsculo"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX-Large"
+msgstr "XX-Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr "Extra Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Regular"
+msgstr "Regular"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Pequeno"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr "Extra pequeno"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Tiny"
+msgstr "Pequeno"
+
+#: theme.json styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Button 1"
+msgstr "Botão 1"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background 4 (Learning Meets)"
+msgstr "Contexto 4 (Aprendizagem em Grupo)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background 3 (Our Features)"
+msgstr "Contexto 3 (Nossos Recursos)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background 2 (gray)"
+msgstr "Fundo 2 (cinza)"
+
+#: theme.json styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Background 1"
+msgstr "Fundo 1"
+
+#: theme.json styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+#: theme.json styles/colors/01-eclipse.json styles/colors/02-lilac.json
+#: styles/colors/03-ember.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr "Título"
+
+#: inc/register_block_patterns.php:86
+msgid "Online Courses FSE - Single Post"
+msgstr "Online Courses FSE - Post único"
+
+#: inc/register_block_patterns.php:83
+msgid "Online Courses FSE - Pages"
+msgstr "Online Courses FSE - Páginas"
+
+#: inc/register_block_patterns.php:80
+msgid "Online Courses FSE - Home"
+msgstr "Online Courses FSE - Página inicial"
+
+#: inc/register_block_patterns.php:77
+msgid "Online Courses FSE - No Title"
+msgstr "Online Courses FSE - Sem título"
+
+#: inc/register_block_patterns.php:74
+msgid "Online Courses FSE - Archive"
+msgstr "Online Courses FSE - Arquivo"
+
+#: inc/register_block_patterns.php:71
+msgid "Online Courses FSE - Search"
+msgstr "Online Courses FSE - Pesquisar"
+
+#: inc/register_block_patterns.php:68
+msgid "Online Courses FSE - 404"
+msgstr "Online Courses FSE - 404"
+
+#: inc/register_block_patterns.php:65
+msgid "Online Courses FSE - Hero"
+msgstr "Online Courses FSE - Herói"
+
+#: inc/register_block_patterns.php:62
+msgid "Online Courses FSE - Content"
+msgstr "Online Courses FSE - Conteúdo"
+
+#: inc/register_block_patterns.php:59
+msgid "Online Courses FSE - Testimonials"
+msgstr "Online Courses FSE - Depoimentos"
+
+#: inc/register_block_patterns.php:56
+msgid "Online Courses FSE - Features"
+msgstr "Online Courses FSE - Funcionalidades"
+
+#: inc/register_block_patterns.php:53
+msgid "Online Courses FSE - Courses"
+msgstr "Online Courses FSE - Cursos"
+
+#: inc/register_block_patterns.php:50
+msgid "Online Courses FSE - Categories"
+msgstr "Online Courses FSE - Categorias"
+
+#: inc/register_block_patterns.php:47
+msgid "Online Courses FSE - Partners"
+msgstr "Online Courses FSE - Parceiros"
+
+#: inc/register_block_patterns.php:44
+msgid "Online Courses FSE - Pricing"
+msgstr "Online Courses FSE - Preços"
+
+#: inc/register_block_patterns.php:41
+msgid "Online Courses FSE - Reviews"
+msgstr "Online Courses FSE - Avaliações"
+
+#: inc/register_block_patterns.php:38
+msgid "Online Courses FSE - About Us"
+msgstr "Online Courses FSE - Sobre nós"
+
+#: inc/register_block_patterns.php:35
+msgid "Online Courses FSE - Instructors"
+msgstr "Online Courses FSE - Instrutores"
+
+#: inc/register_block_patterns.php:32
+msgid "Online Courses FSE - FAQs"
+msgstr "Online Courses FSE - Perguntas frequentes"
+
+#: inc/register_block_patterns.php:29
+msgid "Online Courses FSE - CTA"
+msgstr "Online Courses FSE - CTA"
+
+#: inc/patterns/testimonials/default.php:28
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: inc/patterns/testimonials/default.php:23
+msgid "REVIEWS"
+msgstr "AVALIAÇÕES"
+
+#: inc/patterns/single-post/default.php:24
+msgid "Single Post"
+msgstr "Post individual"
+
+#: inc/patterns/single-post/default.php:21
+msgid "No Posts were found"
+msgstr "Nenhuma postagem foi encontrada"
+
+#: inc/patterns/single-post/default.php:19
+msgid "Comments"
+msgstr "Comentários"
+
+#: inc/patterns/search/default.php:25
+msgid "Search Page"
+msgstr "Página de pesquisa"
+
+#: inc/patterns/search/default.php:21 inc/patterns/single-post/default.php:20
+msgid "More posts"
+msgstr "Mais publicações"
+
+#: inc/patterns/search/default.php:20
+msgid "Search"
+msgstr "Busca"
+
+#: inc/patterns/search/default.php:19
+msgid "Type here..."
+msgstr "Digite aqui..."
+
+#: inc/patterns/reviews/default.php:24 inc/patterns/testimonials/default.php:24
+msgid "What Our Students Say"
+msgstr "O que dizem nossos alunos"
+
+#: inc/patterns/reviews/default.php:23 inc/patterns/reviews/default.php:28
+msgid "Reviews"
+msgstr "Avaliações"
+
+#: inc/patterns/pricing/default.php:22 inc/patterns/testimonials/default.php:25
+msgid "Get Started"
+msgstr "Comece a usar"
+
+#: inc/patterns/pricing/default.php:21
+msgid "Start Learning"
+msgstr "Comece a aprender"
+
+#: inc/patterns/pricing/default.php:20
+msgid "Simple Pricing"
+msgstr "Preços simples"
+
+#: inc/patterns/pricing/default.php:19 inc/patterns/pricing/default.php:25
+msgid "Pricing"
+msgstr "Preços"
+
+#: inc/patterns/partners/default.php:27
+msgid "Partners"
+msgstr "Parceiros"
+
+#: inc/patterns/partners/default.php:24
+msgid "Our Partners"
+msgstr "Nossos parceiros"
+
+#: inc/patterns/pages/default.php:20
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/patterns/no-title/default.php:21
+msgid "No Title Page"
+msgstr "Sem página de título"
+
+#: inc/patterns/no-title/default.php:18
+msgid "Title"
+msgstr "Título"
+
+#: inc/patterns/instructors/default.php:24
+msgid "View All Instructors"
+msgstr "Ver todos os instrutores"
+
+#: inc/patterns/instructors/default.php:23
+msgid "Meet Our Teachers"
+msgstr "Conheça nossos professores"
+
+#: inc/patterns/instructors/default.php:22
+#: inc/patterns/instructors/default.php:27
+msgid "Instructors"
+msgstr "Instrutores"
+
+#: inc/patterns/home/default.php:22
+msgid "Home Page"
+msgstr "Página inicial"
+
+#: inc/patterns/hero/default.php:23
+msgid "Hero"
+msgstr "Hero"
+
+#: inc/patterns/hero/default.php:20
+msgid "Explore Courses"
+msgstr "Explore os cursos"
+
+#: inc/patterns/features/default.php:27
+msgid "Features"
+msgstr "Recursos"
+
+#: inc/patterns/features/default.php:24
+msgid "Our Features"
+msgstr "Nossos recursos"
+
+#: inc/patterns/faq/default.php:19
+msgid "FAQs"
+msgstr "Perguntas frequentes"
+
+#: inc/patterns/faq/default.php:16
+msgid "Common Questions"
+msgstr "Perguntas frequentes"
+
+#: inc/patterns/faq/default.php:15
+msgid "FAQS"
+msgstr "Perguntas frequentes"
+
+#: inc/patterns/cta/default.php:23
+msgid "CTA"
+msgstr "CTA"
+
+#: inc/patterns/cta/default.php:20 inc/patterns/reviews/default.php:25
+msgid "Get started"
+msgstr "Comece a usar"
+
+#: inc/patterns/cta/default.php:19
+msgid "Start Today!"
+msgstr "Comece hoje mesmo!"
+
+#: inc/patterns/courses/default.php:24
+msgid "View Course"
+msgstr "Ver curso"
+
+#: inc/patterns/courses/default.php:23
+msgid "View all Courses"
+msgstr "Ver todos os cursos"
+
+#: inc/patterns/content/content-3.php:27
+msgid "Content 3"
+msgstr "Conteúdo 3"
+
+#: inc/patterns/content/content-3.php:24
+msgid "OUR PARTNERS"
+msgstr "NOSSOS PARCEIROS"
+
+#: inc/patterns/content/content-2.php:30
+msgid "Content 2"
+msgstr "Conteúdo 2"
+
+#: inc/patterns/content/content-1.php:27
+msgid "Content 1"
+msgstr "Conteúdo 1"
+
+#: inc/patterns/content/content-1.php:24
+msgid "View Courses"
+msgstr "Ver cursos"
+
+#: inc/patterns/content/content-1.php:23
+msgid "All Courses"
+msgstr "Todos os cursos"
+
+#: inc/patterns/courses/default.php:27
+msgid "Courses"
+msgstr "Cursos"
+
+#: inc/patterns/content/content-1.php:22 inc/patterns/courses/default.php:22
+msgid "Popular Courses"
+msgstr "Cursos populares"
+
+#: inc/patterns/content/content-1.php:21 inc/patterns/courses/default.php:21
+msgid "Best Learning"
+msgstr "Melhor aprendizagem"
+
+#: inc/patterns/categories/default.php:31
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/patterns/categories/default.php:28 inc/patterns/content/content-2.php:27
+msgid "View All Categories"
+msgstr "Ver todas as categorias"
+
+#: inc/patterns/categories/default.php:27
+msgid "Browse By Categories"
+msgstr "Navegue por categorias"
+
+#: inc/patterns/categories/default.php:26 inc/patterns/content/content-2.php:26
+msgid "Our Categories"
+msgstr "Nossas categorias"
+
+#: inc/patterns/archive/default.php:22
+msgid "Archive Page"
+msgstr "Página de arquivo"
+
+#: inc/patterns/archive/default.php:19 inc/patterns/home/default.php:18
+#: inc/patterns/search/default.php:22
+msgid "Sorry, but nothing was found. Please try a search with different keywords."
+msgstr "Desculpe, mas nada foi encontrado. Por favor, tente uma busca com palavras-chave diferentes."
+
+#: inc/patterns/about-us/default.php:21 inc/patterns/about-us/default.php:22
+#: inc/patterns/about-us/default.php:25
+msgid "About Us"
+msgstr "Sobre nós"
+
+#: inc/patterns/404/default.php:20
+msgid "404 Error Page"
+msgstr "Página de erro 404"
+
+#: inc/patterns/404/default.php:17
+msgid "Back to Homepage"
+msgstr "Voltar para a página inicial"
+
+#: inc/patterns/404/default.php:16
+msgid "Unfortunately the page was not found! Head back to the homepage to continue exploring our courses and resources."
+msgstr "Infelizmente, a página não foi encontrada! Volte para a página inicial para continuar explorando nossos cursos e recursos."
+
+#: inc/patterns/404/default.php:15
+msgid "404 - Page Not Found"
+msgstr "404 - Página não encontrada"
+
+#: inc/admin.php:147
+msgid "Masteriyo LMS preview"
+msgstr "Pré-visualização do Masteriyo LMS"
+
+#: inc/admin.php:139
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#. translators: %s: Masteriyo LMS
+#: inc/admin.php:134
+msgid "Install & Activate %s"
+msgstr "Instalar e ativar %s"
+
+#. translators: %s: Masteriyo LMS
+#: inc/admin.php:132
+msgid "Activate %s"
+msgstr "Ativar %s"
+
+#: inc/admin.php:123
+msgid "Drag & drop builder with quizzes, certificates & assignments"
+msgstr "Construtor de arrastar e soltar com questionários, certificados e tarefas"
+
+#: inc/admin.php:123
+msgid "Complete course builder"
+msgstr "Construtor de cursos completo"
+
+#: inc/admin.php:122
+msgid "Built-in payment system with Stripe, PayPal & more"
+msgstr "Sistema de pagamento integrado com Stripe, PayPal e mais"
+
+#: inc/admin.php:122
+msgid "Multiple payment options"
+msgstr "Doações únicas e recorrentes com valores personalizáveis"
+
+#: inc/admin.php:121
+msgid "Install and create your first course in minutes"
+msgstr "Instale e crie seu primeiro curso em minutos"
+
+#: inc/admin.php:121
+msgid "Quick setup"
+msgstr "Configuração rápida"
+
+#: inc/admin.php:120
+msgid "The complete WordPress LMS solution for educators and businesses. Build engaging courses, track student progress, and monetize your knowledge with zero coding required."
+msgstr "A solução completa de LMS WordPress para educadores e empresas. Crie cursos envolventes, acompanhe o progresso dos alunos e monetize seu conhecimento sem precisar de codificação."
+
+#. translators: %s: Masteriyo LMS
+#: inc/admin.php:117
+msgid "Create and Sell Online Courses with %s!"
+msgstr "Crie e venda cursos on-line com %s!"
+
+#: inc/admin.php:112
+msgid "This theme works best with Masteriyo LMS"
+msgstr "Este tema funciona melhor com o Masteriyo LMS."
+
+#: inc/admin.php:100
+msgid "Done"
+msgstr "Concluído"
+
+#: inc/admin.php:99
+msgid "Installing"
+msgstr "Instalando"
+
+#: inc/admin.php:98
+msgid "Activating"
+msgstr "Ativando"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com/"
+msgstr "https://themegrill.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com/themes/online-courses-fse/"
+msgstr "https://themegrill.com/themes/online-courses-fse/"

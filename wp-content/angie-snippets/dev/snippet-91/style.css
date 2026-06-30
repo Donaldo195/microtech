@@ -1,0 +1,150 @@
+.infra-card {
+    display: flex;
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    padding: 30px;
+    gap: 30px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+    overflow: hidden;
+}
+
+.infra-card.layout-horizontal {
+    flex-direction: row;
+    align-items: center;
+}
+
+.infra-card.layout-vertical {
+    flex-direction: column-reverse;
+}
+
+.infra-card__content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.infra-card__image {
+    flex: 1;
+    max-width: 50%;
+}
+
+.infra-card.layout-vertical .infra-card__image {
+    max-width: 100%;
+    width: 100%;
+}
+
+.infra-card__image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 4px;
+    display: block;
+}
+
+.infra-card__icon-wrapper {
+    margin-bottom: 20px;
+}
+
+.infra-card__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #f0f4f8;
+    color: #0056b3;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+.infra-card__icon svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+
+.infra-card__title {
+    margin: 0 0 15px 0;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a1a;
+    line-height: 1.2;
+}
+
+.infra-card__desc {
+    margin: 0 0 25px 0;
+    font-size: 15px;
+    color: #555;
+    line-height: 1.6;
+}
+
+.infra-card__features {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.infra-card__feature-item {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+/* Style: Standard List Item */
+.feature-style-list_item {
+    width: 45%; /* For 2 columns */
+    color: #0056b3;
+    font-weight: 500;
+}
+.feature-style-list_item .feature-icon {
+    margin-right: 8px;
+    display: inline-flex;
+}
+.feature-style-list_item .feature-icon svg {
+    width: 14px;
+    height: 14px;
+    fill: currentColor;
+}
+
+/* Style: Gray Tag */
+.feature-style-tag_gray {
+    background-color: #f0f0f0;
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: #333;
+    font-weight: 500;
+}
+
+/* Style: Blue Link */
+.feature-style-link_blue {
+    width: 100%;
+    justify-content: space-between;
+    border-top: 1px solid #eaeaea;
+    padding-top: 10px;
+    color: #555;
+}
+.feature-style-link_blue .feature-text {
+    flex: 1;
+}
+.feature-style-link_blue::after {
+    content: 'Enterprise';
+    color: #0056b3;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+@media (max-width: 767px) {
+    .infra-card.layout-horizontal {
+        flex-direction: column-reverse;
+    }
+    .infra-card__image {
+        max-width: 100%;
+    }
+    .feature-style-list_item {
+        width: 100%;
+    }
+}
