@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){ 				window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-31c94c8e' );
+					const blockScope = document.querySelector( '.uagb-block-a96ea2e1' );
 					if ( ! blockScope ) {
 						return;
 					}
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-66fe194f' );
+					const blockScope = document.querySelector( '.uagb-block-6f8b3294' );
 					if ( ! blockScope ) {
 						return;
 					}
@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-f7289f05' );
+					const blockScope = document.querySelector( '.uagb-block-60c4f6b6' );
 					if ( ! blockScope ) {
 						return;
 					}
@@ -58,7 +58,4 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 						}
 					} );
 				} );
-			window.addEventListener( 'load', function() {
-	UAGBButtonChild.init( '.uagb-block-67add34b' );
-});
- });
+			 });
